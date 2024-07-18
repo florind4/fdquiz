@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/fdquiz/static/css/main.12fc7796.css",
-    "main.js": "/fdquiz/static/js/main.f1951500.js",
+    "main.css": "/fdquiz/static/css/main.398b5275.css",
+    "main.js": "/fdquiz/static/js/main.e2ce9af7.js",
     "static/js/453.e9a0592c.chunk.js": "/fdquiz/static/js/453.e9a0592c.chunk.js",
     "static/media/ptproiect.jpg": "/fdquiz/static/media/ptproiect.9ba0183330fc2d77497a.jpg",
-    "static/media/logfield1.png": "/fdquiz/static/media/logfield1.28e44cb7f5d2425541e5.png",
-    "static/media/passfield1.png": "/fdquiz/static/media/passfield1.0492cb6f9408e2ea018c.png",
     "index.html": "/fdquiz/index.html",
-    "main.12fc7796.css.map": "/fdquiz/static/css/main.12fc7796.css.map",
-    "main.f1951500.js.map": "/fdquiz/static/js/main.f1951500.js.map",
+    "main.398b5275.css.map": "/fdquiz/static/css/main.398b5275.css.map",
+    "main.e2ce9af7.js.map": "/fdquiz/static/js/main.e2ce9af7.js.map",
     "453.e9a0592c.chunk.js.map": "/fdquiz/static/js/453.e9a0592c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12fc7796.css",
-    "static/js/main.f1951500.js"
+    "static/css/main.398b5275.css",
+    "static/js/main.e2ce9af7.js"
   ]
 }
